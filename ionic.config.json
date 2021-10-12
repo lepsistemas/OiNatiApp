@@ -1,0 +1,7 @@
+{
+  "name": "OiNatiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
